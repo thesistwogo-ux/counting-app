@@ -1703,7 +1703,7 @@ function _drainCountQueue() {
   if (voice) utter.voice = voice;
 
   const isApple = /iPhone|iPad|Mac/i.test(navigator.userAgent);
-  utter.rate = 1.0;
+  utter.rate = 1.2;
   utter.pitch = isApple ? 1.2 : 1.1;
 
   utter.onend = () => _drainCountQueue();
