@@ -2,10 +2,10 @@ const CACHE = 'count-collect-v1';
 const FONT_CACHE = 'count-collect-fonts-v1';
 
 const APP_SHELL = [
-  '/',
-  '/Numbers_Letters.html',
-  '/manifest.json',
-  '/icon.png',
+  './',
+  './Numbers_Letters.html',
+  './manifest.json',
+  './icon.png',
 ];
 
 self.addEventListener('install', event => {
