@@ -3,7 +3,6 @@ const FONT_CACHE = 'count-collect-fonts-v1';
 
 const APP_SHELL = [
   './',
-  './Numbers_Letters.html',
   './manifest.json',
   './icon.png',
 ];

@@ -2,7 +2,7 @@
   "name": "Count & Collect!",
   "short_name": "Count & Collect",
   "description": "Fun counting and letter learning for kids",
-  "start_url": "/counting-app/Numbers_Letters.html",
+  "start_url": "/counting-app/",
   "scope": "/counting-app/",
   "display": "standalone",
   "background_color": "#FFF8E7",
